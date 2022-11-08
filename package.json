@@ -14,7 +14,7 @@
     "bootstrap": "^4.4.1",
     "lodash": "^4.17.19",
     "mongodb": "^3.5.7",
-    "next": "^9.3.6",
+    "next": "^13.0.2",
     "next-connect": "^0.6.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
